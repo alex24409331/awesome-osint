@@ -2164,7 +2164,7 @@ Thanks to our main contributors
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
 * [OsintStalker](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 * [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
-* [eScraper](https://escraper.emagicone.com/) - Grab product descriptions, prices, image
+* [eScraper](https://e-scraper.com/) - Grab product descriptions, prices, image
 urls and other data effortlessly
 * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
 * [Pown Recon](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
